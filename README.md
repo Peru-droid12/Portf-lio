@@ -9,11 +9,21 @@ Desenvolvedor focado em programação e soluções práticas.
 - Lógica de programação
 - O basico do python
 
-### 📁 Projetoswhatsapp
+## 🚀 Projeto exemplo: Gerador de Senhas
 
-**Sistema de Login**
-Sistema em python com autenticação básica.
+Projeto simples feito em Python que gera senhas aleatórias com base no tamanho escolhido pelo usuário.
 
+### 💻 Como usar
+
+1. Execute o arquivo ".py"
+2. Digite o tamanho da senha
+3. Receba uma senha segura
+
+### 🛠️ Tecnologias
+- Python
+
+### 👨‍💻 Autor
+Pedro
 
 ### 📞 Contato
 Discord: sunny._.shine.200
