@@ -8,6 +8,7 @@ Desenvolvedor focado em programação e soluções práticas.
 ### 🛠️ Habilidades
 - Lógica de programação
 - O basico do python
+- fazer sites com HTML JS e CSS
 
 ## 🚀 Projeto exemplo: Gerador de Senhas
 
